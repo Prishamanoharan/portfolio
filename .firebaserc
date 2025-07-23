@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "prisha--portfolio-web",
+    "prisha-portfolio-web": "prisha--portfolio-web"
+  },
+  "targets": {},
+  "etags": {}
+}
